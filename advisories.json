@@ -1,0 +1,233 @@
+[
+  {
+    "iso": "AU",
+    "country": "Australia",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "BE",
+    "country": "Belgium",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "KH",
+    "country": "Cambodia",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "CO",
+    "country": "Colombia",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "CY",
+    "country": "Cyprus",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "GW",
+    "country": "Guinea-Bissau",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "GY",
+    "country": "Guyana",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "HT",
+    "country": "Haiti",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "HN",
+    "country": "Honduras",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "HK",
+    "country": "Hong Kong",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "HU",
+    "country": "Hungary",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "IS",
+    "country": "Iceland",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "ID",
+    "country": "Indonesia",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "MO",
+    "country": "Macao",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "MV",
+    "country": "Maldives",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "ML",
+    "country": "Mali",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "ZA",
+    "country": "South Africa",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "TZ",
+    "country": "Tanzania, United Republic of",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "TH",
+    "country": "Thailand",
+    "level": 3,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 3,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "UA",
+    "country": "Ukraine",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "GB",
+    "country": "United Kingdom",
+    "level": 4,
+    "breakdown": {
+      "US": "N/A",
+      "UK": "N/A",
+      "AU": "N/A",
+      "CA": 4
+    }
+  }
+]
