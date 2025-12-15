@@ -1,5 +1,16 @@
 [
   {
+    "iso": "AF",
+    "country": "Afghanistan",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
     "iso": "AU",
     "country": "Australia",
     "level": 1,
@@ -11,8 +22,30 @@
     }
   },
   {
+    "iso": "BY",
+    "country": "Belarus",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
     "iso": "BE",
     "country": "Belgium",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "CV",
+    "country": "Cabo Verde",
     "level": 1,
     "breakdown": {
       "US": "N/A",
@@ -55,17 +88,6 @@
     }
   },
   {
-    "iso": "GW",
-    "country": "Guinea-Bissau",
-    "level": 1,
-    "breakdown": {
-      "US": "N/A",
-      "UK": 1,
-      "AU": "N/A",
-      "CA": "N/A"
-    }
-  },
-  {
     "iso": "GY",
     "country": "Guyana",
     "level": 1,
@@ -77,41 +99,8 @@
     }
   },
   {
-    "iso": "HT",
-    "country": "Haiti",
-    "level": 1,
-    "breakdown": {
-      "US": "N/A",
-      "UK": 1,
-      "AU": "N/A",
-      "CA": "N/A"
-    }
-  },
-  {
-    "iso": "HN",
-    "country": "Honduras",
-    "level": 1,
-    "breakdown": {
-      "US": "N/A",
-      "UK": 1,
-      "AU": "N/A",
-      "CA": "N/A"
-    }
-  },
-  {
     "iso": "HK",
     "country": "Hong Kong",
-    "level": 1,
-    "breakdown": {
-      "US": "N/A",
-      "UK": 1,
-      "AU": "N/A",
-      "CA": "N/A"
-    }
-  },
-  {
-    "iso": "HU",
-    "country": "Hungary",
     "level": 1,
     "breakdown": {
       "US": "N/A",
