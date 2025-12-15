@@ -44,6 +44,17 @@
     }
   },
   {
+    "iso": "BJ",
+    "country": "Benin",
+    "level": 3,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 3,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
     "iso": "CV",
     "country": "Cabo Verde",
     "level": 1,
@@ -110,17 +121,6 @@
     }
   },
   {
-    "iso": "IS",
-    "country": "Iceland",
-    "level": 1,
-    "breakdown": {
-      "US": "N/A",
-      "UK": 1,
-      "AU": "N/A",
-      "CA": "N/A"
-    }
-  },
-  {
     "iso": "ID",
     "country": "Indonesia",
     "level": 1,
@@ -176,17 +176,6 @@
     }
   },
   {
-    "iso": "TZ",
-    "country": "Tanzania, United Republic of",
-    "level": 1,
-    "breakdown": {
-      "US": "N/A",
-      "UK": 1,
-      "AU": "N/A",
-      "CA": "N/A"
-    }
-  },
-  {
     "iso": "TH",
     "country": "Thailand",
     "level": 3,
@@ -198,8 +187,19 @@
     }
   },
   {
-    "iso": "UA",
-    "country": "Ukraine",
+    "iso": "TG",
+    "country": "Togo",
+    "level": 1,
+    "breakdown": {
+      "US": "N/A",
+      "UK": 1,
+      "AU": "N/A",
+      "CA": "N/A"
+    }
+  },
+  {
+    "iso": "TN",
+    "country": "Tunisia",
     "level": 1,
     "breakdown": {
       "US": "N/A",
