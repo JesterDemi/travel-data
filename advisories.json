@@ -4,10 +4,10 @@
     "country": "Afghanistan",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -15,10 +15,10 @@
     "country": "Algeria",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -26,10 +26,10 @@
     "country": "Antigua and Barbuda",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -37,10 +37,10 @@
     "country": "Australia",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -48,10 +48,10 @@
     "country": "Barbados",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -59,10 +59,10 @@
     "country": "Belarus",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -70,10 +70,10 @@
     "country": "Belgium",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -81,10 +81,10 @@
     "country": "Benin",
     "level": 3,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 3,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -92,10 +92,10 @@
     "country": "Cabo Verde",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -103,10 +103,10 @@
     "country": "Cambodia",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -114,10 +114,10 @@
     "country": "Colombia",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -125,10 +125,10 @@
     "country": "Cyprus",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -136,10 +136,10 @@
     "country": "Guyana",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -147,10 +147,10 @@
     "country": "Indonesia",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -158,10 +158,10 @@
     "country": "Lebanon",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -169,10 +169,10 @@
     "country": "Maldives",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -180,10 +180,10 @@
     "country": "Thailand",
     "level": 3,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 3,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -191,10 +191,10 @@
     "country": "Togo",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
@@ -202,21 +202,21 @@
     "country": "Tunisia",
     "level": 1,
     "breakdown": {
-      "CA": "N/A",
-      "US": "N/A",
+      "CA": 0,
+      "US": 0,
       "UK": 1,
-      "AU": "N/A"
+      "AU": 0
     }
   },
   {
     "iso": "GB",
     "country": "United Kingdom",
-    "level": 4,
+    "level": 1,
     "breakdown": {
-      "CA": 4,
-      "US": "N/A",
-      "UK": "N/A",
-      "AU": "N/A"
+      "CA": 1,
+      "US": 0,
+      "UK": 0,
+      "AU": 0
     }
   }
 ]
