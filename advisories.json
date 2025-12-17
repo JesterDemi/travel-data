@@ -211,9 +211,9 @@
   {
     "iso": "GB",
     "country": "United Kingdom",
-    "level": 4,
+    "level": 1,
     "breakdown": {
-      "CA": 4,
+      "CA": 1,
       "US": 0,
       "UK": 0,
       "AU": 0
