@@ -66,17 +66,6 @@
     }
   },
   {
-    "iso": "BE",
-    "country": "Belgium",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "BJ",
     "country": "Benin",
     "level": 3,
@@ -183,6 +172,17 @@
       "CA": 0,
       "US": 0,
       "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "RW",
+    "country": "Rwanda",
+    "level": 3,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 3,
       "AU": 0
     }
   },
