@@ -55,17 +55,6 @@
     }
   },
   {
-    "iso": "BY",
-    "country": "Belarus",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "BJ",
     "country": "Benin",
     "level": 3,
@@ -88,6 +77,17 @@
     }
   },
   {
+    "iso": "KH",
+    "country": "Cambodia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "GT",
     "country": "Guatemala",
     "level": 1,
@@ -99,8 +99,8 @@
     }
   },
   {
-    "iso": "ID",
-    "country": "Indonesia",
+    "iso": "GN",
+    "country": "Guinea",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -187,8 +187,8 @@
     }
   },
   {
-    "iso": "TG",
-    "country": "Togo",
+    "iso": "TW",
+    "country": "Taiwan, Province of China",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -198,8 +198,8 @@
     }
   },
   {
-    "iso": "TN",
-    "country": "Tunisia",
+    "iso": "TG",
+    "country": "Togo",
     "level": 1,
     "breakdown": {
       "CA": 0,
