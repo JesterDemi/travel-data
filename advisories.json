@@ -77,8 +77,8 @@
     }
   },
   {
-    "iso": "CV",
-    "country": "Cabo Verde",
+    "iso": "BO",
+    "country": "Bolivia, Plurinational State of",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -88,8 +88,8 @@
     }
   },
   {
-    "iso": "CO",
-    "country": "Colombia",
+    "iso": "CV",
+    "country": "Cabo Verde",
     "level": 1,
     "breakdown": {
       "CA": 0,
