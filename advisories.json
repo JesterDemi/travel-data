@@ -110,17 +110,6 @@
     }
   },
   {
-    "iso": "RO",
-    "country": "Romania",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "RW",
     "country": "Rwanda",
     "level": 3,
@@ -227,6 +216,17 @@
       "CA": 1,
       "US": 0,
       "UK": 0,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "UZ",
+    "country": "Uzbekistan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
       "AU": 0
     }
   }
