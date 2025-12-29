@@ -44,8 +44,19 @@
     }
   },
   {
-    "iso": "GT",
-    "country": "Guatemala",
+    "iso": "CO",
+    "country": "Colombia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "EC",
+    "country": "Ecuador",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -57,17 +68,6 @@
   {
     "iso": "GN",
     "country": "Guinea",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "KW",
-    "country": "Kuwait",
     "level": 1,
     "breakdown": {
       "CA": 0,
