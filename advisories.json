@@ -110,17 +110,6 @@
     }
   },
   {
-    "iso": "LA",
-    "country": "Lao People's Democratic Republic",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "MN",
     "country": "Mongolia",
     "level": 1,
@@ -200,6 +189,17 @@
   {
     "iso": "UZ",
     "country": "Uzbekistan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "VE",
+    "country": "Venezuela, Bolivarian Republic of",
     "level": 1,
     "breakdown": {
       "CA": 0,
