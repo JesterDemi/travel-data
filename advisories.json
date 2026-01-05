@@ -33,28 +33,6 @@
     }
   },
   {
-    "iso": "BG",
-    "country": "Bulgaria",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "KH",
-    "country": "Cambodia",
-    "level": 4,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 4,
-      "AU": 0
-    }
-  },
-  {
     "iso": "CO",
     "country": "Colombia",
     "level": 1,
@@ -121,6 +99,17 @@
     }
   },
   {
+    "iso": "MW",
+    "country": "Malawi",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "MN",
     "country": "Mongolia",
     "level": 1,
@@ -145,6 +134,17 @@
   {
     "iso": "NL",
     "country": "Netherlands",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "SL",
+    "country": "Sierra Leone",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -187,24 +187,13 @@
     }
   },
   {
-    "iso": "UZ",
-    "country": "Uzbekistan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "VE",
     "country": "Venezuela, Bolivarian Republic of",
-    "level": 1,
+    "level": 4,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 1,
+      "UK": 4,
       "AU": 0
     }
   }
