@@ -66,17 +66,6 @@
     }
   },
   {
-    "iso": "GN",
-    "country": "Guinea",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "GY",
     "country": "Guyana",
     "level": 1,
@@ -143,6 +132,17 @@
     }
   },
   {
+    "iso": "PH",
+    "country": "Philippines",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "SL",
     "country": "Sierra Leone",
     "level": 1,
@@ -172,17 +172,6 @@
       "CA": 0,
       "US": 0,
       "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "GB",
-    "country": "United Kingdom",
-    "level": 1,
-    "breakdown": {
-      "CA": 1,
-      "US": 0,
-      "UK": 0,
       "AU": 0
     }
   },
