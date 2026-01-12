@@ -44,6 +44,17 @@
     }
   },
   {
+    "iso": "ID",
+    "country": "Indonesia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "IR",
     "country": "Iran, Islamic Republic of",
     "level": 1,
@@ -145,17 +156,6 @@
   {
     "iso": "PH",
     "country": "Philippines",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "SL",
-    "country": "Sierra Leone",
     "level": 1,
     "breakdown": {
       "CA": 0,
