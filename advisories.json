@@ -22,17 +22,6 @@
     }
   },
   {
-    "iso": "IQ",
-    "country": "Iraq",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "IL",
     "country": "Israel",
     "level": 4,
@@ -79,6 +68,17 @@
   {
     "iso": "LY",
     "country": "Libya",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "MZ",
+    "country": "Mozambique",
     "level": 1,
     "breakdown": {
       "CA": 0,
