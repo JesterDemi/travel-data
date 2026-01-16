@@ -1,16 +1,5 @@
 [
   {
-    "iso": "EG",
-    "country": "Egypt",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "GE",
     "country": "Georgia",
     "level": 1,
@@ -167,6 +156,17 @@
   {
     "iso": "SY",
     "country": "Syrian Arab Republic",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "UG",
+    "country": "Uganda",
     "level": 1,
     "breakdown": {
       "CA": 0,
