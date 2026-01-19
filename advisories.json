@@ -11,6 +11,17 @@
     }
   },
   {
+    "iso": "GT",
+    "country": "Guatemala",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "GN",
     "country": "Guinea",
     "level": 1,
@@ -29,17 +40,6 @@
       "CA": 0,
       "US": 0,
       "UK": 4,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "JO",
-    "country": "Jordan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
       "AU": 0
     }
   },
