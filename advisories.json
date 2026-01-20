@@ -121,17 +121,6 @@
     }
   },
   {
-    "iso": "SA",
-    "country": "Saudi Arabia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "ZA",
     "country": "South Africa",
     "level": 1,
@@ -211,6 +200,17 @@
   {
     "iso": "YE",
     "country": "Yemen",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "ZW",
+    "country": "Zimbabwe",
     "level": 1,
     "breakdown": {
       "CA": 0,
