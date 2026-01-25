@@ -44,6 +44,17 @@
     }
   },
   {
+    "iso": "CL",
+    "country": "Chile",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "IR",
     "country": "Iran, Islamic Republic of",
     "level": 1,
@@ -189,17 +200,6 @@
   {
     "iso": "SD",
     "country": "Sudan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "UG",
-    "country": "Uganda",
     "level": 1,
     "breakdown": {
       "CA": 0,
