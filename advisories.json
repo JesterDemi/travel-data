@@ -66,8 +66,8 @@
     }
   },
   {
-    "iso": "IL",
-    "country": "Israel",
+    "iso": "IQ",
+    "country": "Iraq",
     "level": 4,
     "breakdown": {
       "CA": 0,
@@ -187,8 +187,8 @@
     }
   },
   {
-    "iso": "ZA",
-    "country": "South Africa",
+    "iso": "SO",
+    "country": "Somalia",
     "level": 1,
     "breakdown": {
       "CA": 0,
