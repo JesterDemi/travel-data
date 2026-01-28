@@ -88,13 +88,13 @@
     }
   },
   {
-    "iso": "IR",
-    "country": "Iran, Islamic Republic of",
-    "level": 1,
+    "iso": "ET",
+    "country": "Ethiopia",
+    "level": 4,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 1,
+      "UK": 4,
       "AU": 0
     }
   },
@@ -167,17 +167,6 @@
   {
     "iso": "RS",
     "country": "Serbia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "SC",
-    "country": "Seychelles",
     "level": 1,
     "breakdown": {
       "CA": 0,
