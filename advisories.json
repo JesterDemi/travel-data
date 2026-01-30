@@ -88,6 +88,28 @@
     }
   },
   {
+    "iso": "CU",
+    "country": "Cuba",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "CI",
+    "country": "C\u00f4te d'Ivoire",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "ER",
     "country": "Eritrea",
     "level": 1,
@@ -143,19 +165,8 @@
     }
   },
   {
-    "iso": "MK",
-    "country": "North Macedonia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "RS",
-    "country": "Serbia",
+    "iso": "RU",
+    "country": "Russian Federation",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -167,17 +178,6 @@
   {
     "iso": "SO",
     "country": "Somalia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "ES",
-    "country": "Spain",
     "level": 1,
     "breakdown": {
       "CA": 0,
