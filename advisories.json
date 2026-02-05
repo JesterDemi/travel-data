@@ -22,6 +22,17 @@
     }
   },
   {
+    "iso": "BE",
+    "country": "Belgium",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "BW",
     "country": "Botswana",
     "level": 1,
