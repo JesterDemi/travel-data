@@ -22,6 +22,17 @@
     }
   },
   {
+    "iso": "BA",
+    "country": "Bosnia and Herzegovina",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "BG",
     "country": "Bulgaria",
     "level": 1,
@@ -44,13 +55,13 @@
     }
   },
   {
-    "iso": "KH",
-    "country": "Cambodia",
-    "level": 1,
+    "iso": "CM",
+    "country": "Cameroon",
+    "level": 3,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 1,
+      "UK": 3,
       "AU": 0
     }
   },
@@ -66,8 +77,8 @@
     }
   },
   {
-    "iso": "ET",
-    "country": "Ethiopia",
+    "iso": "IT",
+    "country": "Italy",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -77,8 +88,8 @@
     }
   },
   {
-    "iso": "IT",
-    "country": "Italy",
+    "iso": "MT",
+    "country": "Malta",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,8 +121,8 @@
     }
   },
   {
-    "iso": "NG",
-    "country": "Nigeria",
+    "iso": "NP",
+    "country": "Nepal",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -154,19 +165,8 @@
     }
   },
   {
-    "iso": "RU",
-    "country": "Russian Federation",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "RS",
-    "country": "Serbia",
+    "iso": "SI",
+    "country": "Slovenia",
     "level": 1,
     "breakdown": {
       "CA": 0,
