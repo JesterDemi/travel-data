@@ -99,8 +99,8 @@
     }
   },
   {
-    "iso": "MT",
-    "country": "Malta",
+    "iso": "LR",
+    "country": "Liberia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,8 +110,8 @@
     }
   },
   {
-    "iso": "MA",
-    "country": "Morocco",
+    "iso": "MT",
+    "country": "Malta",
     "level": 1,
     "breakdown": {
       "CA": 0,
