@@ -11,17 +11,6 @@
     }
   },
   {
-    "iso": "HU",
-    "country": "Hungary",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "IS",
     "country": "Iceland",
     "level": 1,
@@ -189,6 +178,17 @@
   {
     "iso": "ES",
     "country": "Spain",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "LK",
+    "country": "Sri Lanka",
     "level": 1,
     "breakdown": {
       "CA": 0,
