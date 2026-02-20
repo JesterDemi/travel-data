@@ -22,30 +22,8 @@
     }
   },
   {
-    "iso": "IT",
-    "country": "Italy",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "KE",
     "country": "Kenya",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "LV",
-    "country": "Latvia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,8 +88,30 @@
     }
   },
   {
+    "iso": "NG",
+    "country": "Nigeria",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "NO",
     "country": "Norway",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "PH",
+    "country": "Philippines",
     "level": 1,
     "breakdown": {
       "CA": 0,
