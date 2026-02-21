@@ -1,5 +1,16 @@
 [
   {
+    "iso": "CO",
+    "country": "Colombia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "CU",
     "country": "Cuba",
     "level": 1,
@@ -35,17 +46,6 @@
   {
     "iso": "KE",
     "country": "Kenya",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "LT",
-    "country": "Lithuania",
     "level": 1,
     "breakdown": {
       "CA": 0,
