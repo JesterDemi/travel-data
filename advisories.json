@@ -55,8 +55,8 @@
     }
   },
   {
-    "iso": "LU",
-    "country": "Luxembourg",
+    "iso": "MT",
+    "country": "Malta",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -66,8 +66,8 @@
     }
   },
   {
-    "iso": "MT",
-    "country": "Malta",
+    "iso": "MX",
+    "country": "Mexico",
     "level": 1,
     "breakdown": {
       "CA": 0,
