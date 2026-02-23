@@ -44,6 +44,17 @@
     }
   },
   {
+    "iso": "GE",
+    "country": "Georgia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "JO",
     "country": "Jordan",
     "level": 1,
@@ -101,17 +112,6 @@
   {
     "iso": "PH",
     "country": "Philippines",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "PL",
-    "country": "Poland",
     "level": 1,
     "breakdown": {
       "CA": 0,
