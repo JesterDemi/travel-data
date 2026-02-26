@@ -66,6 +66,17 @@
     }
   },
   {
+    "iso": "IE",
+    "country": "Ireland",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "JO",
     "country": "Jordan",
     "level": 1,
@@ -165,19 +176,8 @@
     }
   },
   {
-    "iso": "SE",
-    "country": "Sweden",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "CH",
-    "country": "Switzerland",
+    "iso": "SD",
+    "country": "Sudan",
     "level": 1,
     "breakdown": {
       "CA": 0,
