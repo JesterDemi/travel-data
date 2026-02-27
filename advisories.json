@@ -11,30 +11,8 @@
     }
   },
   {
-    "iso": "DZ",
-    "country": "Algeria",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "BO",
     "country": "Bolivia, Plurinational State of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "CO",
-    "country": "Colombia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -77,6 +55,17 @@
     }
   },
   {
+    "iso": "IR",
+    "country": "Iran, Islamic Republic of",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "IE",
     "country": "Ireland",
     "level": 1,
@@ -88,13 +77,13 @@
     }
   },
   {
-    "iso": "JO",
-    "country": "Jordan",
-    "level": 1,
+    "iso": "IL",
+    "country": "Israel",
+    "level": 4,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 1,
+      "UK": 4,
       "AU": 0
     }
   },
@@ -112,28 +101,17 @@
   {
     "iso": "MX",
     "country": "Mexico",
-    "level": 1,
+    "level": 3,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 1,
+      "UK": 3,
       "AU": 0
     }
   },
   {
     "iso": "MZ",
     "country": "Mozambique",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "NG",
-    "country": "Nigeria",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -154,13 +132,13 @@
     }
   },
   {
-    "iso": "PH",
-    "country": "Philippines",
-    "level": 1,
+    "iso": "PS",
+    "country": "Palestine, State of",
+    "level": 4,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 1,
+      "UK": 4,
       "AU": 0
     }
   },
@@ -205,6 +183,17 @@
       "CA": 1,
       "US": 0,
       "UK": 0,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "UZ",
+    "country": "Uzbekistan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
       "AU": 0
     }
   }
