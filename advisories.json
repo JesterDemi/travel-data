@@ -1,7 +1,7 @@
 [
   {
-    "iso": "AF",
-    "country": "Afghanistan",
+    "iso": "BH",
+    "country": "Bahrain",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -22,39 +22,6 @@
     }
   },
   {
-    "iso": "CU",
-    "country": "Cuba",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "GE",
-    "country": "Georgia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "GR",
-    "country": "Greece",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "IR",
     "country": "Iran, Islamic Republic of",
     "level": 1,
@@ -66,8 +33,8 @@
     }
   },
   {
-    "iso": "IE",
-    "country": "Ireland",
+    "iso": "IQ",
+    "country": "Iraq",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -88,8 +55,41 @@
     }
   },
   {
+    "iso": "JO",
+    "country": "Jordan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "KW",
+    "country": "Kuwait",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "KG",
     "country": "Kyrgyzstan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "LB",
+    "country": "Lebanon",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,8 +110,8 @@
     }
   },
   {
-    "iso": "MZ",
-    "country": "Mozambique",
+    "iso": "OM",
+    "country": "Oman",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -143,8 +143,8 @@
     }
   },
   {
-    "iso": "SD",
-    "country": "Sudan",
+    "iso": "QA",
+    "country": "Qatar",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -154,8 +154,8 @@
     }
   },
   {
-    "iso": "TJ",
-    "country": "Tajikistan",
+    "iso": "SA",
+    "country": "Saudi Arabia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -165,8 +165,19 @@
     }
   },
   {
-    "iso": "TN",
-    "country": "Tunisia",
+    "iso": "SY",
+    "country": "Syrian Arab Republic",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "AE",
+    "country": "United Arab Emirates",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -187,8 +198,8 @@
     }
   },
   {
-    "iso": "UZ",
-    "country": "Uzbekistan",
+    "iso": "YE",
+    "country": "Yemen",
     "level": 1,
     "breakdown": {
       "CA": 0,
