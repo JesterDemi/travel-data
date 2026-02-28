@@ -46,11 +46,11 @@
   {
     "iso": "IL",
     "country": "Israel",
-    "level": 4,
+    "level": 1,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 4,
+      "UK": 1,
       "AU": 0
     }
   },
@@ -134,11 +134,11 @@
   {
     "iso": "PS",
     "country": "Palestine, State of",
-    "level": 4,
+    "level": 1,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 4,
+      "UK": 1,
       "AU": 0
     }
   },
