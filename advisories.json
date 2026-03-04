@@ -55,8 +55,8 @@
     }
   },
   {
-    "iso": "IN",
-    "country": "India",
+    "iso": "EG",
+    "country": "Egypt",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -66,8 +66,8 @@
     }
   },
   {
-    "iso": "IR",
-    "country": "Iran, Islamic Republic of",
+    "iso": "IN",
+    "country": "India",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -101,11 +101,11 @@
   {
     "iso": "JO",
     "country": "Jordan",
-    "level": 4,
+    "level": 3,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 4,
+      "UK": 3,
       "AU": 0
     }
   },
@@ -132,30 +132,19 @@
     }
   },
   {
-    "iso": "OM",
-    "country": "Oman",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "PK",
-    "country": "Pakistan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "PS",
     "country": "Palestine, State of",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "QA",
+    "country": "Qatar",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -189,6 +178,17 @@
   {
     "iso": "TM",
     "country": "Turkmenistan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "AE",
+    "country": "United Arab Emirates",
     "level": 1,
     "breakdown": {
       "CA": 0,
