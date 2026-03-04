@@ -22,17 +22,6 @@
     }
   },
   {
-    "iso": "CY",
-    "country": "Cyprus",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "DJ",
     "country": "Djibouti",
     "level": 1,
@@ -66,19 +55,8 @@
     }
   },
   {
-    "iso": "IN",
-    "country": "India",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "IQ",
-    "country": "Iraq",
+    "iso": "GE",
+    "country": "Georgia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -121,8 +99,30 @@
     }
   },
   {
-    "iso": "LB",
-    "country": "Lebanon",
+    "iso": "MY",
+    "country": "Malaysia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "NP",
+    "country": "Nepal",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "OM",
+    "country": "Oman",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -176,8 +176,8 @@
     }
   },
   {
-    "iso": "TH",
-    "country": "Thailand",
+    "iso": "TJ",
+    "country": "Tajikistan",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -187,8 +187,8 @@
     }
   },
   {
-    "iso": "TM",
-    "country": "Turkmenistan",
+    "iso": "TH",
+    "country": "Thailand",
     "level": 1,
     "breakdown": {
       "CA": 0,
