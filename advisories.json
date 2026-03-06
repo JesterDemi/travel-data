@@ -55,28 +55,6 @@
     }
   },
   {
-    "iso": "DJ",
-    "country": "Djibouti",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "EC",
-    "country": "Ecuador",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "EG",
     "country": "Egypt",
     "level": 1,
@@ -110,8 +88,41 @@
     }
   },
   {
+    "iso": "IL",
+    "country": "Israel",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "JP",
     "country": "Japan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "JO",
+    "country": "Jordan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "KW",
+    "country": "Kuwait",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -165,8 +176,8 @@
     }
   },
   {
-    "iso": "OM",
-    "country": "Oman",
+    "iso": "PK",
+    "country": "Pakistan",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -176,8 +187,8 @@
     }
   },
   {
-    "iso": "PK",
-    "country": "Pakistan",
+    "iso": "PS",
+    "country": "Palestine, State of",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -198,13 +209,13 @@
     }
   },
   {
-    "iso": "TJ",
-    "country": "Tajikistan",
+    "iso": "GB",
+    "country": "United Kingdom",
     "level": 1,
     "breakdown": {
-      "CA": 0,
+      "CA": 1,
       "US": 0,
-      "UK": 1,
+      "UK": 0,
       "AU": 0
     }
   },
