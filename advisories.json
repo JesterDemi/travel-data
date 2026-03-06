@@ -1,7 +1,7 @@
 [
   {
-    "iso": "AZ",
-    "country": "Azerbaijan",
+    "iso": "AU",
+    "country": "Australia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -11,8 +11,8 @@
     }
   },
   {
-    "iso": "BD",
-    "country": "Bangladesh",
+    "iso": "BW",
+    "country": "Botswana",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -22,8 +22,8 @@
     }
   },
   {
-    "iso": "BE",
-    "country": "Belgium",
+    "iso": "BN",
+    "country": "Brunei Darussalam",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -33,8 +33,8 @@
     }
   },
   {
-    "iso": "CN",
-    "country": "China",
+    "iso": "FJ",
+    "country": "Fiji",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -44,8 +44,8 @@
     }
   },
   {
-    "iso": "CU",
-    "country": "Cuba",
+    "iso": "ID",
+    "country": "Indonesia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -55,8 +55,8 @@
     }
   },
   {
-    "iso": "CY",
-    "country": "Cyprus",
+    "iso": "KI",
+    "country": "Kiribati",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -66,8 +66,8 @@
     }
   },
   {
-    "iso": "EG",
-    "country": "Egypt",
+    "iso": "LA",
+    "country": "Lao People's Democratic Republic",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -77,8 +77,8 @@
     }
   },
   {
-    "iso": "GR",
-    "country": "Greece",
+    "iso": "MH",
+    "country": "Marshall Islands",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -88,8 +88,8 @@
     }
   },
   {
-    "iso": "IL",
-    "country": "Israel",
+    "iso": "FM",
+    "country": "Micronesia, Federated States of",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -99,8 +99,8 @@
     }
   },
   {
-    "iso": "JP",
-    "country": "Japan",
+    "iso": "NR",
+    "country": "Nauru",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,8 +110,8 @@
     }
   },
   {
-    "iso": "JO",
-    "country": "Jordan",
+    "iso": "NZ",
+    "country": "New Zealand",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -121,8 +121,8 @@
     }
   },
   {
-    "iso": "KW",
-    "country": "Kuwait",
+    "iso": "PG",
+    "country": "Papua New Guinea",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -132,8 +132,8 @@
     }
   },
   {
-    "iso": "LB",
-    "country": "Lebanon",
+    "iso": "WS",
+    "country": "Samoa",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -143,8 +143,8 @@
     }
   },
   {
-    "iso": "MV",
-    "country": "Maldives",
+    "iso": "SG",
+    "country": "Singapore",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -154,8 +154,8 @@
     }
   },
   {
-    "iso": "NP",
-    "country": "Nepal",
+    "iso": "SB",
+    "country": "Solomon Islands",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -165,8 +165,8 @@
     }
   },
   {
-    "iso": "PK",
-    "country": "Pakistan",
+    "iso": "TO",
+    "country": "Tonga",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -176,30 +176,8 @@
     }
   },
   {
-    "iso": "PS",
-    "country": "Palestine, State of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "PH",
-    "country": "Philippines",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "TT",
-    "country": "Trinidad and Tobago",
+    "iso": "TV",
+    "country": "Tuvalu",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -220,8 +198,30 @@
     }
   },
   {
-    "iso": "UZ",
-    "country": "Uzbekistan",
+    "iso": "VU",
+    "country": "Vanuatu",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "VE",
+    "country": "Venezuela, Bolivarian Republic of",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "VN",
+    "country": "Viet Nam",
     "level": 1,
     "breakdown": {
       "CA": 0,
