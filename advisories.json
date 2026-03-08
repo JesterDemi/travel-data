@@ -1,5 +1,16 @@
 [
   {
+    "iso": "BH",
+    "country": "Bahrain",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "FJ",
     "country": "Fiji",
     "level": 1,
@@ -46,17 +57,6 @@
   {
     "iso": "KW",
     "country": "Kuwait",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "LA",
-    "country": "Lao People's Democratic Republic",
     "level": 1,
     "breakdown": {
       "CA": 0,
