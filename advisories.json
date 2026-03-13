@@ -1,7 +1,7 @@
 [
   {
-    "iso": "BH",
-    "country": "Bahrain",
+    "iso": "AG",
+    "country": "Antigua and Barbuda",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -165,17 +165,6 @@
     }
   },
   {
-    "iso": "SA",
-    "country": "Saudi Arabia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "SB",
     "country": "Solomon Islands",
     "level": 1,
@@ -205,6 +194,17 @@
       "CA": 1,
       "US": 0,
       "UK": 0,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "US",
+    "country": "United States",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
       "AU": 0
     }
   },
