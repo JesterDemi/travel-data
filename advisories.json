@@ -176,6 +176,17 @@
     }
   },
   {
+    "iso": "TC",
+    "country": "Turks and Caicos Islands",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "AE",
     "country": "United Arab Emirates",
     "level": 1,
@@ -211,17 +222,6 @@
   {
     "iso": "VE",
     "country": "Venezuela, Bolivarian Republic of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "YE",
-    "country": "Yemen",
     "level": 1,
     "breakdown": {
       "CA": 0,
