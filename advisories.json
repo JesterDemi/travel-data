@@ -11,8 +11,8 @@
     }
   },
   {
-    "iso": "BD",
-    "country": "Bangladesh",
+    "iso": "BH",
+    "country": "Bahrain",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -77,8 +77,8 @@
     }
   },
   {
-    "iso": "JO",
-    "country": "Jordan",
+    "iso": "KW",
+    "country": "Kuwait",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -165,8 +165,8 @@
     }
   },
   {
-    "iso": "SB",
-    "country": "Solomon Islands",
+    "iso": "SA",
+    "country": "Saudi Arabia",
     "level": 1,
     "breakdown": {
       "CA": 0,
