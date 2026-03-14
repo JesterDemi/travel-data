@@ -22,6 +22,17 @@
     }
   },
   {
+    "iso": "CU",
+    "country": "Cuba",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "EC",
     "country": "Ecuador",
     "level": 1,
@@ -68,17 +79,6 @@
   {
     "iso": "JO",
     "country": "Jordan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "KW",
-    "country": "Kuwait",
     "level": 1,
     "breakdown": {
       "CA": 0,
