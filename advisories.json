@@ -88,6 +88,17 @@
     }
   },
   {
+    "iso": "ML",
+    "country": "Mali",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "OM",
     "country": "Oman",
     "level": 1,
@@ -216,17 +227,6 @@
       "CA": 1,
       "US": 0,
       "UK": 0,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "US",
-    "country": "United States",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
       "AU": 0
     }
   }
