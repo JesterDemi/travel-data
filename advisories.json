@@ -44,6 +44,17 @@
     }
   },
   {
+    "iso": "BO",
+    "country": "Bolivia, Plurinational State of",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "BN",
     "country": "Brunei Darussalam",
     "level": 1,
@@ -57,17 +68,6 @@
   {
     "iso": "ID",
     "country": "Indonesia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "JP",
-    "country": "Japan",
     "level": 1,
     "breakdown": {
       "CA": 0,
