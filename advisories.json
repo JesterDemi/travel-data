@@ -11,17 +11,6 @@
     }
   },
   {
-    "iso": "BD",
-    "country": "Bangladesh",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "BY",
     "country": "Belarus",
     "level": 1,
@@ -57,6 +46,17 @@
   {
     "iso": "LA",
     "country": "Lao People's Democratic Republic",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "MR",
+    "country": "Mauritania",
     "level": 1,
     "breakdown": {
       "CA": 0,
