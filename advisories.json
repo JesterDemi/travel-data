@@ -33,6 +33,39 @@
     }
   },
   {
+    "iso": "CO",
+    "country": "Colombia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "HR",
+    "country": "Croatia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "EE",
+    "country": "Estonia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "IL",
     "country": "Israel",
     "level": 1,
@@ -44,8 +77,19 @@
     }
   },
   {
-    "iso": "LA",
-    "country": "Lao People's Democratic Republic",
+    "iso": "LV",
+    "country": "Latvia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "LT",
+    "country": "Lithuania",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -68,17 +112,6 @@
   {
     "iso": "FM",
     "country": "Micronesia, Federated States of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "NZ",
-    "country": "New Zealand",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -154,30 +187,8 @@
     }
   },
   {
-    "iso": "TH",
-    "country": "Thailand",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "TM",
     "country": "Turkmenistan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "TV",
-    "country": "Tuvalu",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -194,17 +205,6 @@
       "CA": 1,
       "US": 0,
       "UK": 0,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "UZ",
-    "country": "Uzbekistan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
       "AU": 0
     }
   },
