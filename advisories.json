@@ -77,6 +77,17 @@
     }
   },
   {
+    "iso": "KE",
+    "country": "Kenya",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "LV",
     "country": "Latvia",
     "level": 1,
@@ -101,17 +112,6 @@
   {
     "iso": "MR",
     "country": "Mauritania",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "FM",
-    "country": "Micronesia, Federated States of",
     "level": 1,
     "breakdown": {
       "CA": 0,
