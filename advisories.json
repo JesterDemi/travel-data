@@ -55,6 +55,17 @@
     }
   },
   {
+    "iso": "EG",
+    "country": "Egypt",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "EE",
     "country": "Estonia",
     "level": 1,
@@ -123,17 +134,6 @@
   {
     "iso": "PS",
     "country": "Palestine, State of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "PH",
-    "country": "Philippines",
     "level": 1,
     "breakdown": {
       "CA": 0,
