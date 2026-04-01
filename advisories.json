@@ -143,6 +143,17 @@
     }
   },
   {
+    "iso": "NG",
+    "country": "Nigeria",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "OM",
     "country": "Oman",
     "level": 1,
@@ -165,8 +176,8 @@
     }
   },
   {
-    "iso": "PT",
-    "country": "Portugal",
+    "iso": "PH",
+    "country": "Philippines",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -200,17 +211,6 @@
   {
     "iso": "ZA",
     "country": "South Africa",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "TM",
-    "country": "Turkmenistan",
     "level": 1,
     "breakdown": {
       "CA": 0,
