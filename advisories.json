@@ -33,28 +33,6 @@
     }
   },
   {
-    "iso": "CO",
-    "country": "Colombia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "HR",
-    "country": "Croatia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "EG",
     "country": "Egypt",
     "level": 1,
@@ -66,8 +44,19 @@
     }
   },
   {
-    "iso": "EE",
-    "country": "Estonia",
+    "iso": "HK",
+    "country": "Hong Kong",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "IQ",
+    "country": "Iraq",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -79,6 +68,17 @@
   {
     "iso": "IL",
     "country": "Israel",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "JO",
+    "country": "Jordan",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,8 +110,8 @@
     }
   },
   {
-    "iso": "LV",
-    "country": "Latvia",
+    "iso": "KW",
+    "country": "Kuwait",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -121,19 +121,8 @@
     }
   },
   {
-    "iso": "LT",
-    "country": "Lithuania",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "MR",
-    "country": "Mauritania",
+    "iso": "LB",
+    "country": "Lebanon",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -187,6 +176,17 @@
     }
   },
   {
+    "iso": "QA",
+    "country": "Qatar",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "SA",
     "country": "Saudi Arabia",
     "level": 1,
@@ -198,8 +198,8 @@
     }
   },
   {
-    "iso": "SN",
-    "country": "Senegal",
+    "iso": "ZA",
+    "country": "South Africa",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -209,8 +209,8 @@
     }
   },
   {
-    "iso": "ZA",
-    "country": "South Africa",
+    "iso": "AE",
+    "country": "United Arab Emirates",
     "level": 1,
     "breakdown": {
       "CA": 0,
