@@ -22,6 +22,17 @@
     }
   },
   {
+    "iso": "FJ",
+    "country": "Fiji",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "HK",
     "country": "Hong Kong",
     "level": 1,
@@ -167,17 +178,6 @@
   {
     "iso": "SB",
     "country": "Solomon Islands",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "ZA",
-    "country": "South Africa",
     "level": 1,
     "breakdown": {
       "CA": 0,
