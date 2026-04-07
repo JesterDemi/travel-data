@@ -11,6 +11,17 @@
     }
   },
   {
+    "iso": "BE",
+    "country": "Belgium",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "CU",
     "country": "Cuba",
     "level": 1,
@@ -90,17 +101,6 @@
   {
     "iso": "LB",
     "country": "Lebanon",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "NG",
-    "country": "Nigeria",
     "level": 1,
     "breakdown": {
       "CA": 0,
