@@ -22,17 +22,6 @@
     }
   },
   {
-    "iso": "FI",
-    "country": "Finland",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "FR",
     "country": "France",
     "level": 1,
@@ -44,8 +33,30 @@
     }
   },
   {
-    "iso": "DE",
-    "country": "Germany",
+    "iso": "IL",
+    "country": "Israel",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "JO",
+    "country": "Jordan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "KW",
+    "country": "Kuwait",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -66,28 +77,6 @@
     }
   },
   {
-    "iso": "LT",
-    "country": "Lithuania",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "LU",
-    "country": "Luxembourg",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "ML",
     "country": "Mali",
     "level": 1,
@@ -99,8 +88,8 @@
     }
   },
   {
-    "iso": "MT",
-    "country": "Malta",
+    "iso": "OM",
+    "country": "Oman",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,30 +99,8 @@
     }
   },
   {
-    "iso": "NL",
-    "country": "Netherlands",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "NO",
-    "country": "Norway",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "PL",
-    "country": "Poland",
+    "iso": "PS",
+    "country": "Palestine, State of",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -145,6 +112,17 @@
   {
     "iso": "PT",
     "country": "Portugal",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "QA",
+    "country": "Qatar",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -167,6 +145,17 @@
   {
     "iso": "RU",
     "country": "Russian Federation",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "SA",
+    "country": "Saudi Arabia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -211,6 +200,17 @@
   {
     "iso": "SE",
     "country": "Sweden",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "AE",
+    "country": "United Arab Emirates",
     "level": 1,
     "breakdown": {
       "CA": 0,
