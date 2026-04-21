@@ -33,17 +33,6 @@
     }
   },
   {
-    "iso": "FR",
-    "country": "France",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "GR",
     "country": "Greece",
     "level": 1,
@@ -134,6 +123,17 @@
   {
     "iso": "ML",
     "country": "Mali",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "MX",
+    "country": "Mexico",
     "level": 1,
     "breakdown": {
       "CA": 0,
