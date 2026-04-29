@@ -77,6 +77,17 @@
     }
   },
   {
+    "iso": "EC",
+    "country": "Ecuador",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "ER",
     "country": "Eritrea",
     "level": 1,
@@ -178,17 +189,6 @@
   {
     "iso": "PT",
     "country": "Portugal",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "SA",
-    "country": "Saudi Arabia",
     "level": 1,
     "breakdown": {
       "CA": 0,
