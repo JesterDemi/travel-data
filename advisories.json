@@ -176,6 +176,17 @@
     }
   },
   {
+    "iso": "NO",
+    "country": "Norway",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "PT",
     "country": "Portugal",
     "level": 1,
@@ -200,17 +211,6 @@
   {
     "iso": "US",
     "country": "United States",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "VN",
-    "country": "Viet Nam",
     "level": 1,
     "breakdown": {
       "CA": 0,
