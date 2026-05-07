@@ -176,8 +176,8 @@
     }
   },
   {
-    "iso": "PT",
-    "country": "Portugal",
+    "iso": "RU",
+    "country": "Russian Federation",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -187,8 +187,8 @@
     }
   },
   {
-    "iso": "RU",
-    "country": "Russian Federation",
+    "iso": "SD",
+    "country": "Sudan",
     "level": 1,
     "breakdown": {
       "CA": 0,
