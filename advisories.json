@@ -11,6 +11,17 @@
     }
   },
   {
+    "iso": "AZ",
+    "country": "Azerbaijan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "BD",
     "country": "Bangladesh",
     "level": 1,
@@ -112,17 +123,6 @@
   {
     "iso": "JM",
     "country": "Jamaica",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "JP",
-    "country": "Japan",
     "level": 1,
     "breakdown": {
       "CA": 0,
