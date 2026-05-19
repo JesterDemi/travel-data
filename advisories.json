@@ -11,17 +11,6 @@
     }
   },
   {
-    "iso": "BY",
-    "country": "Belarus",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "BZ",
     "country": "Belize",
     "level": 1,
@@ -35,6 +24,28 @@
   {
     "iso": "BO",
     "country": "Bolivia, Plurinational State of",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "BA",
+    "country": "Bosnia and Herzegovina",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "CA",
+    "country": "Canada",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -66,6 +77,39 @@
     }
   },
   {
+    "iso": "CO",
+    "country": "Colombia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "CR",
+    "country": "Costa Rica",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "HR",
+    "country": "Croatia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "CU",
     "country": "Cuba",
     "level": 1,
@@ -88,19 +132,8 @@
     }
   },
   {
-    "iso": "KR",
-    "country": "Korea, Republic of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "MV",
-    "country": "Maldives",
+    "iso": "MX",
+    "country": "Mexico",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -121,52 +154,8 @@
     }
   },
   {
-    "iso": "PK",
-    "country": "Pakistan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "SN",
-    "country": "Senegal",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "SO",
-    "country": "Somalia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "ZA",
-    "country": "South Africa",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "SD",
-    "country": "Sudan",
+    "iso": "TZ",
+    "country": "Tanzania, United Republic of",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -205,6 +194,17 @@
       "CA": 1,
       "US": 0,
       "UK": 0,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "US",
+    "country": "United States",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
       "AU": 0
     }
   }
