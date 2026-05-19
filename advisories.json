@@ -44,17 +44,6 @@
     }
   },
   {
-    "iso": "BR",
-    "country": "Brazil",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "TD",
     "country": "Chad",
     "level": 1,
@@ -112,6 +101,17 @@
   {
     "iso": "MV",
     "country": "Maldives",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "MZ",
+    "country": "Mozambique",
     "level": 1,
     "breakdown": {
       "CA": 0,
