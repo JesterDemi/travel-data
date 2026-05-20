@@ -66,17 +66,6 @@
     }
   },
   {
-    "iso": "CN",
-    "country": "China",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "CO",
     "country": "Colombia",
     "level": 1,
@@ -121,8 +110,8 @@
     }
   },
   {
-    "iso": "FI",
-    "country": "Finland",
+    "iso": "EC",
+    "country": "Ecuador",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -145,6 +134,17 @@
   {
     "iso": "MZ",
     "country": "Mozambique",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "PE",
+    "country": "Peru",
     "level": 1,
     "breakdown": {
       "CA": 0,
