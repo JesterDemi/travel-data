@@ -44,6 +44,17 @@
     }
   },
   {
+    "iso": "BI",
+    "country": "Burundi",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "CA",
     "country": "Canada",
     "level": 1,
@@ -79,17 +90,6 @@
   {
     "iso": "HR",
     "country": "Croatia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "CU",
-    "country": "Cuba",
     "level": 1,
     "breakdown": {
       "CA": 0,
