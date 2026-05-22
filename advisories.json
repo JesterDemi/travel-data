@@ -11,17 +11,6 @@
     }
   },
   {
-    "iso": "BZ",
-    "country": "Belize",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "BO",
     "country": "Bolivia, Plurinational State of",
     "level": 1,
@@ -101,6 +90,28 @@
   {
     "iso": "EC",
     "country": "Ecuador",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "HU",
+    "country": "Hungary",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "KE",
+    "country": "Kenya",
     "level": 1,
     "breakdown": {
       "CA": 0,
