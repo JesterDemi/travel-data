@@ -110,6 +110,17 @@
     }
   },
   {
+    "iso": "LR",
+    "country": "Liberia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "PG",
     "country": "Papua New Guinea",
     "level": 1,
@@ -121,8 +132,8 @@
     }
   },
   {
-    "iso": "PE",
-    "country": "Peru",
+    "iso": "RW",
+    "country": "Rwanda",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -132,8 +143,8 @@
     }
   },
   {
-    "iso": "RW",
-    "country": "Rwanda",
+    "iso": "SA",
+    "country": "Saudi Arabia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -167,17 +178,6 @@
   {
     "iso": "LK",
     "country": "Sri Lanka",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "TZ",
-    "country": "Tanzania, United Republic of",
     "level": 1,
     "breakdown": {
       "CA": 0,
