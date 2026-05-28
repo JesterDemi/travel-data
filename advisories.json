@@ -1,5 +1,16 @@
 [
   {
+    "iso": "AO",
+    "country": "Angola",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "BO",
     "country": "Bolivia, Plurinational State of",
     "level": 3,
@@ -7,17 +18,6 @@
       "CA": 0,
       "US": 0,
       "UK": 3,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "BA",
-    "country": "Bosnia and Herzegovina",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
       "AU": 0
     }
   },
@@ -44,8 +44,8 @@
     }
   },
   {
-    "iso": "CO",
-    "country": "Colombia",
+    "iso": "CF",
+    "country": "Central African Republic",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -55,8 +55,8 @@
     }
   },
   {
-    "iso": "HR",
-    "country": "Croatia",
+    "iso": "CO",
+    "country": "Colombia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -99,8 +99,8 @@
     }
   },
   {
-    "iso": "LB",
-    "country": "Lebanon",
+    "iso": "LR",
+    "country": "Liberia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,8 +110,8 @@
     }
   },
   {
-    "iso": "LR",
-    "country": "Liberia",
+    "iso": "MT",
+    "country": "Malta",
     "level": 1,
     "breakdown": {
       "CA": 0,
