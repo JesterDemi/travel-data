@@ -11,6 +11,17 @@
     }
   },
   {
+    "iso": "BS",
+    "country": "Bahamas",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "BO",
     "country": "Bolivia, Plurinational State of",
     "level": 3,
@@ -18,17 +29,6 @@
       "CA": 0,
       "US": 0,
       "UK": 3,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "BI",
-    "country": "Burundi",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
       "AU": 0
     }
   },
