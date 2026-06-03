@@ -88,17 +88,6 @@
     }
   },
   {
-    "iso": "ET",
-    "country": "Ethiopia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "GN",
     "country": "Guinea",
     "level": 1,
@@ -112,6 +101,17 @@
   {
     "iso": "HU",
     "country": "Hungary",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "JP",
+    "country": "Japan",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -183,17 +183,6 @@
       "CA": 0,
       "US": 0,
       "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "GB",
-    "country": "United Kingdom",
-    "level": 1,
-    "breakdown": {
-      "CA": 1,
-      "US": 0,
-      "UK": 0,
       "AU": 0
     }
   },
