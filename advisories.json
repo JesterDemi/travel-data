@@ -132,17 +132,6 @@
     }
   },
   {
-    "iso": "OM",
-    "country": "Oman",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "PK",
     "country": "Pakistan",
     "level": 1,
@@ -156,6 +145,17 @@
   {
     "iso": "PS",
     "country": "Palestine, State of",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "PE",
+    "country": "Peru",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -205,6 +205,17 @@
       "CA": 0,
       "US": 0,
       "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "GB",
+    "country": "United Kingdom",
+    "level": 1,
+    "breakdown": {
+      "CA": 1,
+      "US": 0,
+      "UK": 0,
       "AU": 0
     }
   }
