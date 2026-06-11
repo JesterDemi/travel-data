@@ -121,17 +121,6 @@
     }
   },
   {
-    "iso": "NG",
-    "country": "Nigeria",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "PK",
     "country": "Pakistan",
     "level": 1,
@@ -189,6 +178,17 @@
   {
     "iso": "RS",
     "country": "Serbia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "ZA",
+    "country": "South Africa",
     "level": 1,
     "breakdown": {
       "CA": 0,
