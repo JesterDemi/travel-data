@@ -33,6 +33,17 @@
     }
   },
   {
+    "iso": "CO",
+    "country": "Colombia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "EC",
     "country": "Ecuador",
     "level": 1,
@@ -99,6 +110,17 @@
     }
   },
   {
+    "iso": "LY",
+    "country": "Libya",
+    "level": 3,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 3,
+      "AU": 0
+    }
+  },
+  {
     "iso": "ML",
     "country": "Mali",
     "level": 1,
@@ -132,30 +154,8 @@
     }
   },
   {
-    "iso": "PS",
-    "country": "Palestine, State of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "PE",
     "country": "Peru",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "PH",
-    "country": "Philippines",
     "level": 1,
     "breakdown": {
       "CA": 0,
