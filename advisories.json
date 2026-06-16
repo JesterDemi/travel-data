@@ -207,5 +207,16 @@
       "UK": 1,
       "AU": 0
     }
+  },
+  {
+    "iso": "GB",
+    "country": "United Kingdom",
+    "level": 1,
+    "breakdown": {
+      "CA": 1,
+      "US": 0,
+      "UK": 0,
+      "AU": 0
+    }
   }
 ]
