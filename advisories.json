@@ -66,8 +66,8 @@
     }
   },
   {
-    "iso": "GT",
-    "country": "Guatemala",
+    "iso": "GE",
+    "country": "Georgia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -205,17 +205,6 @@
       "CA": 0,
       "US": 0,
       "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "GB",
-    "country": "United Kingdom",
-    "level": 1,
-    "breakdown": {
-      "CA": 1,
-      "US": 0,
-      "UK": 0,
       "AU": 0
     }
   }
