@@ -66,17 +66,6 @@
     }
   },
   {
-    "iso": "IR",
-    "country": "Iran, Islamic Republic of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "IQ",
     "country": "Iraq",
     "level": 4,
@@ -84,17 +73,6 @@
       "CA": 0,
       "US": 0,
       "UK": 4,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "IL",
-    "country": "Israel",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
       "AU": 0
     }
   },
@@ -154,8 +132,8 @@
     }
   },
   {
-    "iso": "PS",
-    "country": "Palestine, State of",
+    "iso": "PE",
+    "country": "Peru",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -165,8 +143,8 @@
     }
   },
   {
-    "iso": "PE",
-    "country": "Peru",
+    "iso": "PT",
+    "country": "Portugal",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -189,6 +167,17 @@
   {
     "iso": "SY",
     "country": "Syrian Arab Republic",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "UG",
+    "country": "Uganda",
     "level": 1,
     "breakdown": {
       "CA": 0,
