@@ -55,17 +55,6 @@
     }
   },
   {
-    "iso": "IQ",
-    "country": "Iraq",
-    "level": 4,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 4,
-      "AU": 0
-    }
-  },
-  {
     "iso": "KE",
     "country": "Kenya",
     "level": 1,
@@ -187,19 +176,19 @@
     }
   },
   {
-    "iso": "GB",
-    "country": "United Kingdom",
+    "iso": "VE",
+    "country": "Venezuela, Bolivarian Republic of",
     "level": 1,
     "breakdown": {
-      "CA": 1,
+      "CA": 0,
       "US": 0,
-      "UK": 0,
+      "UK": 1,
       "AU": 0
     }
   },
   {
-    "iso": "VE",
-    "country": "Venezuela, Bolivarian Republic of",
+    "iso": "VN",
+    "country": "Viet Nam",
     "level": 1,
     "breakdown": {
       "CA": 0,
