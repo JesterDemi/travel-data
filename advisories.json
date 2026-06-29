@@ -55,6 +55,17 @@
     }
   },
   {
+    "iso": "GH",
+    "country": "Ghana",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "JO",
     "country": "Jordan",
     "level": 1,
@@ -90,17 +101,6 @@
   {
     "iso": "MN",
     "country": "Mongolia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "NG",
-    "country": "Nigeria",
     "level": 1,
     "breakdown": {
       "CA": 0,
