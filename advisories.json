@@ -55,17 +55,6 @@
     }
   },
   {
-    "iso": "KE",
-    "country": "Kenya",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "KW",
     "country": "Kuwait",
     "level": 1,
@@ -110,6 +99,17 @@
     }
   },
   {
+    "iso": "MS",
+    "country": "Montserrat",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "NL",
     "country": "Netherlands",
     "level": 1,
@@ -132,8 +132,8 @@
     }
   },
   {
-    "iso": "RU",
-    "country": "Russian Federation",
+    "iso": "PT",
+    "country": "Portugal",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -143,8 +143,8 @@
     }
   },
   {
-    "iso": "ZA",
-    "country": "South Africa",
+    "iso": "RU",
+    "country": "Russian Federation",
     "level": 1,
     "breakdown": {
       "CA": 0,
