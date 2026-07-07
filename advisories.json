@@ -1,7 +1,29 @@
 [
   {
+    "iso": "AW",
+    "country": "Aruba",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "BO",
     "country": "Bolivia, Plurinational State of",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "GM",
+    "country": "Gambia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -154,17 +176,6 @@
     }
   },
   {
-    "iso": "TH",
-    "country": "Thailand",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "UG",
     "country": "Uganda",
     "level": 1,
@@ -189,17 +200,6 @@
   {
     "iso": "VE",
     "country": "Venezuela, Bolivarian Republic of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "EH",
-    "country": "Western Sahara",
     "level": 1,
     "breakdown": {
       "CA": 0,
