@@ -143,17 +143,6 @@
     }
   },
   {
-    "iso": "NG",
-    "country": "Nigeria",
-    "level": 4,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 4,
-      "AU": 0
-    }
-  },
-  {
     "iso": "PT",
     "country": "Portugal",
     "level": 1,
@@ -178,6 +167,17 @@
   {
     "iso": "SA",
     "country": "Saudi Arabia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "TT",
+    "country": "Trinidad and Tobago",
     "level": 1,
     "breakdown": {
       "CA": 0,
