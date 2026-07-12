@@ -66,8 +66,8 @@
     }
   },
   {
-    "iso": "IT",
-    "country": "Italy",
+    "iso": "JP",
+    "country": "Japan",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -77,8 +77,8 @@
     }
   },
   {
-    "iso": "JP",
-    "country": "Japan",
+    "iso": "JO",
+    "country": "Jordan",
     "level": 1,
     "breakdown": {
       "CA": 0,
