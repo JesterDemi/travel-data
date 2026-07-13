@@ -1,16 +1,5 @@
 [
   {
-    "iso": "AW",
-    "country": "Aruba",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "BH",
     "country": "Bahrain",
     "level": 1,
@@ -132,8 +121,8 @@
     }
   },
   {
-    "iso": "PT",
-    "country": "Portugal",
+    "iso": "OM",
+    "country": "Oman",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -143,8 +132,19 @@
     }
   },
   {
-    "iso": "ZA",
-    "country": "South Africa",
+    "iso": "QA",
+    "country": "Qatar",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "SA",
+    "country": "Saudi Arabia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -187,17 +187,6 @@
     }
   },
   {
-    "iso": "TT",
-    "country": "Trinidad and Tobago",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "UA",
     "country": "Ukraine",
     "level": 1,
@@ -209,13 +198,13 @@
     }
   },
   {
-    "iso": "GB",
-    "country": "United Kingdom",
+    "iso": "AE",
+    "country": "United Arab Emirates",
     "level": 1,
     "breakdown": {
-      "CA": 1,
+      "CA": 0,
       "US": 0,
-      "UK": 0,
+      "UK": 1,
       "AU": 0
     }
   }
