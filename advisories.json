@@ -77,8 +77,8 @@
     }
   },
   {
-    "iso": "JO",
-    "country": "Jordan",
+    "iso": "KW",
+    "country": "Kuwait",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -88,8 +88,8 @@
     }
   },
   {
-    "iso": "KW",
-    "country": "Kuwait",
+    "iso": "MX",
+    "country": "Mexico",
     "level": 1,
     "breakdown": {
       "CA": 0,
