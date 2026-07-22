@@ -22,8 +22,8 @@
     }
   },
   {
-    "iso": "BD",
-    "country": "Bangladesh",
+    "iso": "CL",
+    "country": "Chile",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -33,8 +33,8 @@
     }
   },
   {
-    "iso": "CU",
-    "country": "Cuba",
+    "iso": "CY",
+    "country": "Cyprus",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -55,8 +55,8 @@
     }
   },
   {
-    "iso": "GI",
-    "country": "Gibraltar",
+    "iso": "IQ",
+    "country": "Iraq",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -66,19 +66,8 @@
     }
   },
   {
-    "iso": "GR",
-    "country": "Greece",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "IT",
-    "country": "Italy",
+    "iso": "IL",
+    "country": "Israel",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -121,30 +110,8 @@
     }
   },
   {
-    "iso": "MV",
-    "country": "Maldives",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "MX",
-    "country": "Mexico",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "NL",
-    "country": "Netherlands",
+    "iso": "OM",
+    "country": "Oman",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -165,8 +132,8 @@
     }
   },
   {
-    "iso": "PH",
-    "country": "Philippines",
+    "iso": "PS",
+    "country": "Palestine, State of",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -176,8 +143,8 @@
     }
   },
   {
-    "iso": "PT",
-    "country": "Portugal",
+    "iso": "QA",
+    "country": "Qatar",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -198,6 +165,28 @@
     }
   },
   {
+    "iso": "ES",
+    "country": "Spain",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "SY",
+    "country": "Syrian Arab Republic",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "GB",
     "country": "United Kingdom",
     "level": 1,
@@ -209,8 +198,8 @@
     }
   },
   {
-    "iso": "ZW",
-    "country": "Zimbabwe",
+    "iso": "YE",
+    "country": "Yemen",
     "level": 1,
     "breakdown": {
       "CA": 0,
