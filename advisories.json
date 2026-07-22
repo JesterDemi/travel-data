@@ -55,6 +55,17 @@
     }
   },
   {
+    "iso": "IR",
+    "country": "Iran, Islamic Republic of",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "IQ",
     "country": "Iraq",
     "level": 1,
@@ -112,17 +123,6 @@
   {
     "iso": "OM",
     "country": "Oman",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "PK",
-    "country": "Pakistan",
     "level": 1,
     "breakdown": {
       "CA": 0,
