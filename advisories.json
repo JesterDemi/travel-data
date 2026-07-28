@@ -110,6 +110,17 @@
     }
   },
   {
+    "iso": "JP",
+    "country": "Japan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "JO",
     "country": "Jordan",
     "level": 1,
@@ -123,17 +134,6 @@
   {
     "iso": "KW",
     "country": "Kuwait",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "OM",
-    "country": "Oman",
     "level": 1,
     "breakdown": {
       "CA": 0,
