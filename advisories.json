@@ -11,17 +11,6 @@
     }
   },
   {
-    "iso": "DZ",
-    "country": "Algeria",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "CV",
     "country": "Cabo Verde",
     "level": 1,
@@ -44,6 +33,17 @@
     }
   },
   {
+    "iso": "EG",
+    "country": "Egypt",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "ER",
     "country": "Eritrea",
     "level": 1,
@@ -57,17 +57,6 @@
   {
     "iso": "FR",
     "country": "France",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "GE",
-    "country": "Georgia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -143,8 +132,8 @@
     }
   },
   {
-    "iso": "SA",
-    "country": "Saudi Arabia",
+    "iso": "SI",
+    "country": "Slovenia",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -154,8 +143,8 @@
     }
   },
   {
-    "iso": "SI",
-    "country": "Slovenia",
+    "iso": "ES",
+    "country": "Spain",
     "level": 1,
     "breakdown": {
       "CA": 0,
