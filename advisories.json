@@ -55,30 +55,8 @@
     }
   },
   {
-    "iso": "ER",
-    "country": "Eritrea",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "FR",
     "country": "France",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "DE",
-    "country": "Germany",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -121,8 +99,30 @@
     }
   },
   {
+    "iso": "MN",
+    "country": "Mongolia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "NP",
     "country": "Nepal",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "PK",
+    "country": "Pakistan",
     "level": 1,
     "breakdown": {
       "CA": 0,
