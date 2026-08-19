@@ -121,8 +121,8 @@
     }
   },
   {
-    "iso": "MV",
-    "country": "Maldives",
+    "iso": "ME",
+    "country": "Montenegro",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -132,8 +132,8 @@
     }
   },
   {
-    "iso": "ME",
-    "country": "Montenegro",
+    "iso": "MA",
+    "country": "Morocco",
     "level": 1,
     "breakdown": {
       "CA": 0,
