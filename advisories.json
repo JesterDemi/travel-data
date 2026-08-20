@@ -11,6 +11,17 @@
     }
   },
   {
+    "iso": "BH",
+    "country": "Bahrain",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "BA",
     "country": "Bosnia and Herzegovina",
     "level": 1,
@@ -46,17 +57,6 @@
   {
     "iso": "CY",
     "country": "Cyprus",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "GT",
-    "country": "Guatemala",
     "level": 1,
     "breakdown": {
       "CA": 0,
