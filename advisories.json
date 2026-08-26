@@ -44,30 +44,8 @@
     }
   },
   {
-    "iso": "CY",
-    "country": "Cyprus",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "ID",
     "country": "Indonesia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "IR",
-    "country": "Iran, Islamic Republic of",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -178,6 +156,17 @@
   {
     "iso": "SS",
     "country": "South Sudan",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "TW",
+    "country": "Taiwan, Province of China",
     "level": 1,
     "breakdown": {
       "CA": 0,
