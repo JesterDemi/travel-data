@@ -11,8 +11,8 @@
     }
   },
   {
-    "iso": "BO",
-    "country": "Bolivia, Plurinational State of",
+    "iso": "BD",
+    "country": "Bangladesh",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -46,6 +46,17 @@
   {
     "iso": "ID",
     "country": "Indonesia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "IE",
+    "country": "Ireland",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -132,8 +143,8 @@
     }
   },
   {
-    "iso": "NO",
-    "country": "Norway",
+    "iso": "RW",
+    "country": "Rwanda",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -145,17 +156,6 @@
   {
     "iso": "SK",
     "country": "Slovakia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "SS",
-    "country": "South Sudan",
     "level": 1,
     "breakdown": {
       "CA": 0,
