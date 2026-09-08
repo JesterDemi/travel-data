@@ -99,17 +99,6 @@
     }
   },
   {
-    "iso": "KG",
-    "country": "Kyrgyzstan",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "MU",
     "country": "Mauritius",
     "level": 1,
@@ -189,6 +178,17 @@
   {
     "iso": "TW",
     "country": "Taiwan, Province of China",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "TH",
+    "country": "Thailand",
     "level": 1,
     "breakdown": {
       "CA": 0,
