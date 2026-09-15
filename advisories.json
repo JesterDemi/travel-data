@@ -44,6 +44,17 @@
     }
   },
   {
+    "iso": "GE",
+    "country": "Georgia",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "ID",
     "country": "Indonesia",
     "level": 1,
@@ -187,8 +198,8 @@
     }
   },
   {
-    "iso": "UG",
-    "country": "Uganda",
+    "iso": "UA",
+    "country": "Ukraine",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -205,17 +216,6 @@
       "CA": 1,
       "US": 0,
       "UK": 0,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "VE",
-    "country": "Venezuela, Bolivarian Republic of",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
       "AU": 0
     }
   }
