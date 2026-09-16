@@ -33,17 +33,6 @@
     }
   },
   {
-    "iso": "CO",
-    "country": "Colombia",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "GE",
     "country": "Georgia",
     "level": 1,
@@ -165,8 +154,8 @@
     }
   },
   {
-    "iso": "RW",
-    "country": "Rwanda",
+    "iso": "SA",
+    "country": "Saudi Arabia",
     "level": 1,
     "breakdown": {
       "CA": 0,
