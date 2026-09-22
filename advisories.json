@@ -1,16 +1,5 @@
 [
   {
-    "iso": "BY",
-    "country": "Belarus",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "BE",
     "country": "Belgium",
     "level": 1,
@@ -90,6 +79,17 @@
   {
     "iso": "NP",
     "country": "Nepal",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "PK",
+    "country": "Pakistan",
     "level": 1,
     "breakdown": {
       "CA": 0,
