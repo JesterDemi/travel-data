@@ -77,17 +77,6 @@
     }
   },
   {
-    "iso": "ID",
-    "country": "Indonesia",
-    "level": 4,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 4,
-      "AU": 0
-    }
-  },
-  {
     "iso": "IT",
     "country": "Italy",
     "level": 1,
@@ -167,6 +156,17 @@
   {
     "iso": "LK",
     "country": "Sri Lanka",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "TZ",
+    "country": "Tanzania, United Republic of",
     "level": 1,
     "breakdown": {
       "CA": 0,
