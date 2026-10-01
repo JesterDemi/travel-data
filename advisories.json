@@ -110,6 +110,17 @@
     }
   },
   {
+    "iso": "NP",
+    "country": "Nepal",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "NG",
     "country": "Nigeria",
     "level": 1,
@@ -128,17 +139,6 @@
       "CA": 0,
       "US": 0,
       "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "SA",
-    "country": "Saudi Arabia",
-    "level": 4,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 4,
       "AU": 0
     }
   },
