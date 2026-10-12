@@ -79,11 +79,11 @@
   {
     "iso": "ER",
     "country": "Eritrea",
-    "level": 4,
+    "level": 1,
     "breakdown": {
       "CA": 0,
       "US": 0,
-      "UK": 4,
+      "UK": 1,
       "AU": 0
     }
   },
@@ -101,17 +101,6 @@
   {
     "iso": "IN",
     "country": "India",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "IT",
-    "country": "Italy",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -176,6 +165,17 @@
     }
   },
   {
+    "iso": "SB",
+    "country": "Solomon Islands",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "TZ",
     "country": "Tanzania, United Republic of",
     "level": 1,
@@ -187,8 +187,8 @@
     }
   },
   {
-    "iso": "UG",
-    "country": "Uganda",
+    "iso": "TH",
+    "country": "Thailand",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -198,8 +198,8 @@
     }
   },
   {
-    "iso": "UA",
-    "country": "Ukraine",
+    "iso": "UG",
+    "country": "Uganda",
     "level": 1,
     "breakdown": {
       "CA": 0,
