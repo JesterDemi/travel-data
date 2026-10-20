@@ -88,6 +88,17 @@
     }
   },
   {
+    "iso": "MW",
+    "country": "Malawi",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
     "iso": "MR",
     "country": "Mauritania",
     "level": 1,
@@ -143,17 +154,6 @@
     }
   },
   {
-    "iso": "PA",
-    "country": "Panama",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "SA",
     "country": "Saudi Arabia",
     "level": 1,
@@ -176,8 +176,8 @@
     }
   },
   {
-    "iso": "SB",
-    "country": "Solomon Islands",
+    "iso": "SC",
+    "country": "Seychelles",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -187,8 +187,8 @@
     }
   },
   {
-    "iso": "TH",
-    "country": "Thailand",
+    "iso": "TZ",
+    "country": "Tanzania, United Republic of",
     "level": 1,
     "breakdown": {
       "CA": 0,
