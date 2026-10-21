@@ -33,17 +33,6 @@
     }
   },
   {
-    "iso": "ER",
-    "country": "Eritrea",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
     "iso": "ET",
     "country": "Ethiopia",
     "level": 1,
@@ -57,6 +46,17 @@
   {
     "iso": "FR",
     "country": "France",
+    "level": 1,
+    "breakdown": {
+      "CA": 0,
+      "US": 0,
+      "UK": 1,
+      "AU": 0
+    }
+  },
+  {
+    "iso": "IT",
+    "country": "Italy",
     "level": 1,
     "breakdown": {
       "CA": 0,
