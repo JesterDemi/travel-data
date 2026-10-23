@@ -1,7 +1,7 @@
 [
   {
-    "iso": "AL",
-    "country": "Albania",
+    "iso": "AZ",
+    "country": "Azerbaijan",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -13,17 +13,6 @@
   {
     "iso": "BD",
     "country": "Bangladesh",
-    "level": 1,
-    "breakdown": {
-      "CA": 0,
-      "US": 0,
-      "UK": 1,
-      "AU": 0
-    }
-  },
-  {
-    "iso": "BE",
-    "country": "Belgium",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -77,8 +66,8 @@
     }
   },
   {
-    "iso": "KE",
-    "country": "Kenya",
+    "iso": "JO",
+    "country": "Jordan",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -99,8 +88,8 @@
     }
   },
   {
-    "iso": "MR",
-    "country": "Mauritania",
+    "iso": "MQ",
+    "country": "Martinique",
     "level": 1,
     "breakdown": {
       "CA": 0,
@@ -110,8 +99,8 @@
     }
   },
   {
-    "iso": "MU",
-    "country": "Mauritius",
+    "iso": "MR",
+    "country": "Mauritania",
     "level": 1,
     "breakdown": {
       "CA": 0,
